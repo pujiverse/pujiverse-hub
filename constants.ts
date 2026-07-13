@@ -60,10 +60,40 @@ export const HEADER_NAV_LINKS: NavLinkItem[] = [
 
 export const PROJECTS: Project[] = [
   {
+    title: "Pujiverse Network",
+    description: "A digital network and central hub connecting various projects, communities, and tech explorations within the Pujiverse.",
+    githubUrl: "https://github.com/pujiverse/Pujiversen-Network",
+    liveUrl: "https://pujiverse.github.io/Pujiversen-Network/"
+  },
+  {
     title: "My Professional Portfolio",
     description: "A comprehensive online portfolio showcasing IT career experience, projects, GitHub repositories, and social media presence.",
-    githubUrl: "https://github.com/pujithchowdarys/my-protfolio",
-    liveUrl: "https://pujith-sakhamuri-portfolio.vercel.app/"
+    githubUrl: "https://github.com/pujiverse/pujith_portfolio",
+    liveUrl: "https://pujithsakhamuri.vercel.app/"
+  },
+  {
+    title: "SAI INDIAN",
+    description: "A web application featuring Indian cuisine or community services with integrated social and WhatsApp links.",
+    githubUrl: "https://github.com/pujiverse/SAI-INDIAN",
+    liveUrl: "https://sai-indian.vercel.app/"
+  },
+  {
+    title: "Resume Builder",
+    description: "A web-based resume builder with PDF download capabilities and initial job matching features.",
+    githubUrl: "https://github.com/pujiverse/resume-builder",
+    liveUrl: "https://resume-builder-azure-omega.vercel.app/"
+  },
+  {
+    title: "Pujiverse Voice Studio",
+    description: "A voice generation studio incorporating advanced speech synthesis and API key selection functionality.",
+    githubUrl: "https://github.com/pujithchowdarys/Pujiverse-Voice-Studio",
+    liveUrl: "https://pujiverse-voice-studio.vercel.app/"
+  },
+  {
+    title: "Pujiverse Cinema",
+    description: "A cinematic web experience integrating the Gemini API for voiceover generation.",
+    githubUrl: "https://github.com/pujithchowdarys/pujiverse-cinema",
+    liveUrl: "https://pujiverse-cinema.vercel.app/"
   },
   {
     title: "Pujiverse Creation Spark",
@@ -86,19 +116,20 @@ export const PROJECTS: Project[] = [
   {
     title: "Pujith Connects",
     description: "A personal website centralizing Pujith Sakhamuri's online presence, including social media, projects, and contact information.",
-    githubUrl: "https://github.com/pujithchowdarys/Pujiverse",
+    githubUrl: "https://github.com/pujiverse/Pujiverse",
     liveUrl: "https://pujiverse.vercel.app/"
   },
   {
     title: "Pujiverse Presentation Generator",
     description: "Generate animated PowerPoint presentations with voiceovers and video on any topic using AI. Enter a topic, and the app will create slide content, generate a corresponding voiceover, and allow you to download both the PPTX file, audio, and a combined video.",
-    githubUrl: "https://github.com/pujithchowdarys/AI-Animated-Presentation-Generator"
+    githubUrl: "https://github.com/pujithchowdarys/AI-Animated-Presentation-Generator",
+    liveUrl: "https://ai-animated-presentation-generator.vercel.app/"
   },
   {
     title: "Business Manager Pro",
     description: "A comprehensive web application to manage daily business, chits, household expenses, and loans with insightful summary reports. This app provides a clean, intuitive interface for all your financial tracking needs.",
     githubUrl: "https://github.com/pujithchowdarys/biz-manager",
-    liveUrl: "https://biz-manager-eight.vercel.app/#/"
+    liveUrl: "https://biz-manager-eight.vercel.app/"
   },
   {
     title: "Text-to-Video Generator",

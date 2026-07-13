@@ -1,5 +1,6 @@
 {
   "name": "Pujiverse",
   "description": "A personal website centralizing Pujith Sakhamuri's online presence, including social media, projects, and contact information, now under the name Pujiverse.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": []
 }
