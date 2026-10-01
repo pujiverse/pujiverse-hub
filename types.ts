@@ -21,6 +21,21 @@ export interface Project {
   description: string;
   githubUrl: string;
   liveUrl?: string;
+  category?: string;
+  status?: string;
+  tags?: string[];
+}
+
+export interface ExperienceItem {
+  role: string;
+  organization: string;
+  period?: string;
+  description?: string;
+}
+
+export interface EducationItem {
+  degree: string;
+  institution: string;
 }
 
 export interface SocialCategory {
